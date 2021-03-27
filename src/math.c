@@ -67,6 +67,7 @@ int main() {
     oncelik = &denklem[0];
 
 	printf("sonuc: %d", expression());
+	printf("\n");
 	system("pause");
     return 0;
 }
